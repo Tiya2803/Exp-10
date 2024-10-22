@@ -1,9 +1,9 @@
-**Experiment 10** <br>
-<br>
-**Aim:** <br>
+# Experiment 10 <br>
+
+# Aim: <br>
 To study and implement Pointer Operations (call by value and call by reference) <br>
-<br>
-**Theory:** <br>
+
+# Theory: <br>
 There are two ways to call a variable to a function for various operations. <br>
 | Call by Value  | Call by Reference |
 | ------------- | ------------- |
@@ -13,7 +13,7 @@ There are two ways to call a variable to a function for various operations. <br>
 | Used when the function does not need to modify the original data.  | Used when the function needs to modify the original data or when passing large objects.  |
 <br>
 
-**Code:** <br>
+# Code: <br>
 <br>
 a.<br>
 
@@ -94,7 +94,7 @@ int main()
 
 ```
 
-**Conclusion:** 
+# Conclusion:
 &#8594; We learnt about call by value and call by reference in C++. <br>
 &#8594; We learnt the use case of each in C++. <br>
 *******

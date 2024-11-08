@@ -94,6 +94,13 @@ int main()
 
 ```
 
+# Output: 
+
+a.<br>![image](https://github.com/user-attachments/assets/b9cf69ff-ece7-470c-8ebb-c7ebe5e14c2b)<br>
+b.<br>![image](https://github.com/user-attachments/assets/f3a178fc-df0e-4ab9-bab2-e83ab4df9362)<br>
+
+
+
 # Conclusion:
 &#8594; We learnt about call by value and call by reference in C++. <br>
 &#8594; We learnt the use case of each in C++. <br>
